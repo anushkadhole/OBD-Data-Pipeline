@@ -1,5 +1,5 @@
 
-# OBD-Style Data Processing Pipeline 🚗📊
+# OBD-Style Data Processing Pipeline 📊
 
 This project simulates a vehicle emissions compliance pipeline using Python and Power BI. It processes OBD-style logs, flags emission risks, and generates summary Excel reports and visualizations.
 
