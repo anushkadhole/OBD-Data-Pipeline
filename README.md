@@ -45,7 +45,7 @@ python process_obd_logs.py
 
 ## Power BI
 
-Use the exported Excel report to build visual dashboards in Power BI.
+Used the exported Excel report to build visual dashboards in Power BI.
 
 ## Author
 
