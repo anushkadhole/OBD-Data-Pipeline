@@ -26,27 +26,7 @@ OBD_Data_Pipeline/
 ├── powerbi/              # Power BI visual files (placeholder)
 ├── notebooks/            # Jupyter notebooks (optional)
 └── README.md
-```
-
-## How to Run
-
-1. Install dependencies:
-```bash
-pip install pandas openpyxl
-```
-
-2. Run the processor script:
-```bash
-cd scripts
-python process_obd_logs.py
-```
-
-3. Open the Excel report from `outputs/reports/emissions_report.xlsx`.
 
 ## Power BI
 
 Used the exported Excel report to build visual dashboards in Power BI.
-
-## Author
-
-Anushka Dhole – [GitHub](https://github.com/anushkadhole)
